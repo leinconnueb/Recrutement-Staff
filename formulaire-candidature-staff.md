@@ -18,15 +18,16 @@ Merci de ton intérêt pour rejoindre l'équipe **Supernova** ! Remplis ce formu
 ## 2. Poste souhaité
 
 - **Poste(s) visé(s)** *(coche ou précise)* :
-  - [ ] Bêta Testeur
   - [ ] Stagiaire
+  - [ ] Bêta Testeur
+  - [ ] Support
   - [ ] Helper
   - [ ] Modérateur
   - [ ] Administrateur
   - [ ] Formateur Staff
-  - [ ] Sécurité Anti-raid
-  - [ ] Gérant staff
+  - [ ] Gérant Staff
   - [ ] CM
+  - [ ] Sécurité Anti-raid
   - [ ] Assistant
   - [ ] Développeur
   - [ ] Autre : ______
